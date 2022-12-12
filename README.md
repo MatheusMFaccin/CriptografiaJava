@@ -8,10 +8,11 @@
 </div>
 <div>
   <h1>tutorial de como rodar o projeto<h1>
-    <p>OBSERVAÇÃO: nesse tutorial usaremos a IDE "netbeans 12.5"</p>
+    <p>OBSERVAÇÃO: nesse tutorial usaremos a IDE "netbeans 12.5".</p>
     <h2>etapa 1</h2>
       <p>depois de baixar e instalar o mysql voce deve criar um "sql query" e executar a query escrita no arquivo "SQL_query"
-        assim você tera criado a database e a tabela da aplicação.</p>
+        assim você tera criado a database e a tabela da aplicação.</br>
+      <img src="https://user-images.githubusercontent.com/96211501/206952526-b50838b4-39bf-4d8a-9938-a5a3db5392ef.jpg"></p>
     </br>
     <h2>etapa 2</h2>
     <p>depois de baixar uma ide e o jdk17 estiver funcionando nela baixe o projeto e o importe para dentro da sua IDE.</p>
