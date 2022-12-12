@@ -14,7 +14,8 @@
         assim você tera criado a database e a tabela da aplicação.</p>
     </br>
     <h2>etapa 2</h2>
-    <p>depois de baixar uma ide e o jdk17 estiver funcionando nela baixe o projeto e o importe para dentro da sua IDE.</p>  
+    <p>depois de baixar uma ide e o jdk17 estiver funcionando nela baixe o projeto e o importe para dentro da sua IDE.</p>
+    <img src="https://github.com/MatheusMFaccin/CriptografiaJava/issues/1#issue-1490790397" width="500px" height="500px">
     </br>
     <h2>etapa 3</h2>
     <p>voce deve adicionar o mysql connector na biblioteca do seu projeto.</p>
