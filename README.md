@@ -25,5 +25,9 @@
     <h2>etapa 4</h2>
     <p>vá no pacote "ConnectionFactory" entre na classe "ConnectionFactory" e altere o valor das variaveis da classe de acordo com <b>o seu banco mysql.</b></br>
     <img src="https://user-images.githubusercontent.com/96211501/207118497-d99f1909-b8be-4462-8b70-41b03d8e0eaf.jpg"></p>
+    </br>
+    <p>agora é so executar o codigo</p>
+    
+    
     
 </div>
