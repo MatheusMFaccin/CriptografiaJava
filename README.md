@@ -15,7 +15,7 @@
     </br>
     <h2>etapa 2</h2>
     <p>depois de baixar uma ide e o jdk17 estiver funcionando nela baixe o projeto e o importe para dentro da sua IDE.</p>
-    <img src="https://github.com/MatheusMFaccin/CriptografiaJava/issues/1#issue-1490790397">
+    <img src="https://user-images.githubusercontent.com/96211501/206949651-e09d8ed8-9c59-4bcb-8317-d8e00e9382ea.jpg">
     </br>
     <h2>etapa 3</h2>
     <p>voce deve adicionar o mysql connector na biblioteca do seu projeto.</br>
