@@ -21,5 +21,8 @@
     <h2>etapa 3</h2>
     <p>voce deve adicionar o mysql connector na biblioteca do seu projeto.</br>
     <img src="https://user-images.githubusercontent.com/96211501/206952015-970568bb-f6d5-411b-8a65-fd49d66fc9d3.jpg"</p>
+    </br>
+    <h2>etapa 4</h2>
+    <p>vá no pacote "ConnectionFactory" entre na classe "ConnectionFactory" e altere o valor da string usuario para o nome de usuario do seu banco mysql e o valor da   string senha para a senha do seu banco mysql</p>
     
 </div>
