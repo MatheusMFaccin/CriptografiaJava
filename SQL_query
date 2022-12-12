@@ -4,6 +4,6 @@ use usuarios;
 create table cadastros(
     ID int primary key auto_increment,
     nome varchar(40) not null,
-    senha varchar(40) not null,
+    senha varchar(1000) not null,
     email varchar(60) not null
 );
