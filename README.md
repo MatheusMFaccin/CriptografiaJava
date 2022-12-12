@@ -23,6 +23,7 @@
     <img src="https://user-images.githubusercontent.com/96211501/206952015-970568bb-f6d5-411b-8a65-fd49d66fc9d3.jpg"</p>
     </br>
     <h2>etapa 4</h2>
-    <p>vá no pacote "ConnectionFactory" entre na classe "ConnectionFactory" e altere o valor da string usuario para o nome de usuario do seu banco mysql e o valor da   string senha para a senha do seu banco mysql</p>
+    <p>vá no pacote "ConnectionFactory" entre na classe "ConnectionFactory" e altere o valor das variaveis da classe de acordo com <b>o seu banco mysql.</b></br>
+    <img src="https://user-images.githubusercontent.com/96211501/207118497-d99f1909-b8be-4462-8b70-41b03d8e0eaf.jpg"></p>
     
 </div>
